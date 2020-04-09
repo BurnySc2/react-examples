@@ -36,7 +36,7 @@ https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
 Emmets:
 https://docs.emmet.io/cheat-sheet/
 
-
 # Other
+
 webpack setup?
 https://www.valentinog.com/blog/babel/
