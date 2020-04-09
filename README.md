@@ -22,6 +22,10 @@ Start dev server
 Builds and optimizes the site
 `npm run build`
 
+Serve the site locally (/build directory)
+`sudo npm install -g server`
+`serve -s build`
+
 ## Prettier
 
 `npx prettier@2.0.4 . --write`
